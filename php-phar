@@ -1,0 +1,33 @@
+Here’s a list of filesystem functions that can be utilized to achieve deserialization of a PHP object embedded within a phar archive’s meta-data:
+
+ copy
+ file_exists
+ file_get_contents
+ file_put_contents
+ file
+ fileatime
+ filectime
+ filegroup
+ fileinode
+ filemtime
+ fileowner
+ fileperms
+ filesize
+ filetype
+ fopen
+ is_dir
+ is_executable
+ is_file
+ is_link
+ is_readable
+ is_writable
+ lstat
+ mkdir
+ parse_ini_file
+ readfile
+ rename
+ rmdir
+ stat
+ touch
+ unlink
+ mime_content_type
